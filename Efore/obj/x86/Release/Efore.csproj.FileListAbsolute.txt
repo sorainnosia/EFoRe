@@ -1,0 +1,18 @@
+C:\Users\John Kenedy\Desktop\Efore\Efore\bin\Release\Efore.exe.config
+C:\Users\John Kenedy\Desktop\Efore\Efore\bin\Release\Efore.exe
+C:\Users\John Kenedy\Desktop\Efore\Efore\bin\Release\Efore.pdb
+C:\Users\John Kenedy\Desktop\Efore\Efore\obj\x86\Release\Efore.frmMain.resources
+C:\Users\John Kenedy\Desktop\Efore\Efore\obj\x86\Release\Efore.Properties.Resources.resources
+C:\Users\John Kenedy\Desktop\Efore\Efore\obj\x86\Release\Efore.csproj.GenerateResource.Cache
+C:\Users\John Kenedy\Desktop\Efore\Efore\obj\x86\Release\Efore.exe
+C:\Users\John Kenedy\Desktop\Efore\Efore\obj\x86\Release\Efore.pdb
+C:\Users\John\Dropbox\sorainnosia.com\Efore\Efore\bin\Release\Efore.exe.config
+C:\Users\John\Dropbox\sorainnosia.com\Efore\Efore\bin\Release\Efore.exe
+C:\Users\John\Dropbox\sorainnosia.com\Efore\Efore\bin\Release\Efore.pdb
+C:\Users\John\Dropbox\sorainnosia.com\Efore\Efore\obj\x86\Release\Efore.csprojAssemblyReference.cache
+C:\Users\John\Dropbox\sorainnosia.com\Efore\Efore\obj\x86\Release\Efore.frmMain.resources
+C:\Users\John\Dropbox\sorainnosia.com\Efore\Efore\obj\x86\Release\Efore.Properties.Resources.resources
+C:\Users\John\Dropbox\sorainnosia.com\Efore\Efore\obj\x86\Release\Efore.csproj.GenerateResource.cache
+C:\Users\John\Dropbox\sorainnosia.com\Efore\Efore\obj\x86\Release\Efore.csproj.CoreCompileInputs.cache
+C:\Users\John\Dropbox\sorainnosia.com\Efore\Efore\obj\x86\Release\Efore.exe
+C:\Users\John\Dropbox\sorainnosia.com\Efore\Efore\obj\x86\Release\Efore.pdb
